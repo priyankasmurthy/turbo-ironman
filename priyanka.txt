@@ -2,6 +2,6 @@ Priyanka S- working in Tavavnt Technology
 lol pinky :P
 
 scdh
-trying to create a conflict -- added in test1 branch
+ create a conflict -- added in test1 branch
 
 creating conflict -- added in master 

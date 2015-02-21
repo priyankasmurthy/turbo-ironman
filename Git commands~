@@ -1,0 +1,18 @@
+mkdir Directory_name   //creating directory
+cd directory_name
+git init  // initialize git for dat directory
+git config --global user.name "priyankasmurthy"
+git config --global user.email "priyankasmurthy7@gmail.com"
+echo 'Priyanka' > priyanka.txt // create a file 
+git status 
+git add priyanka.txt 
+git commit // commits only if changes are made
+git remote add origin git@github.com:priyankasmurthy/turbo-ironman.git // origin is the master's name.. different name can be given
+git pull --rebase origin master // updating the local repo(rebase doest merge my changes)
+git push origin master // pushing the changes to git.com repo
+
+
+
+
+
+
